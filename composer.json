@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "phpoffice/phpspreadsheet": "^1.27",
+        "spipu/html2pdf": "^5.2"
+    }
+}
